@@ -1,1 +1,54 @@
-// npm install -should -dev
+{
+  "name": "gbunitytoken",
+  "version": "0.1.0",
+  "description": "A node.js module that can out token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbdevcteam/node-gbunitytoken.git"
+  },
+  "keywords": [
+    "node",
+    "hmac",
+    "sha1",
+    "token"
+  ],
+  "author": "shgbit development center team2",
+  "contributors":[
+    {
+      "name":"bobenut",
+      "web":"https://github.com/bobenut"
+    },
+    {
+      "name":"AlfredYan",
+      "web":"https://github.com/AlfredYan"
+    },
+    {
+      "name":"AlfredYan",
+      "web":"https://github.com/AlfredYan"
+    },
+    {
+      "name":"zunmaxiake",
+      "web":"https://github.com/zunmaxiake"
+    },
+    {
+      "name":"koroshi",
+      "web":"https://github.com/koroshi"
+    },
+    {
+      "name":"zhangfengchina",
+      "web":"https://github.com/zhangfengchina"
+    },
+    {
+      "name":"xiaoju",
+      "web":"https://github.com/xiaoju"   //待查
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/gbdevcteam/node-gbunitytoken/issues"
+  },
+  "homepage": "https://github.com/gbdevcteam/node-gbunitytoken#readme"
+}
