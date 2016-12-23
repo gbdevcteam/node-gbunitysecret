@@ -9,8 +9,3 @@ getToken.parseHmacSha1Token = function(publicKey, privateKey){
 };
 
 module.exports = getToken;
-// module.exports = {
-//   parseHmacSha1Token: function (publicKey, privateKey) {
-//       return parseHmacSha1Token(publicKey, privateKey);
-//   }
-// }
