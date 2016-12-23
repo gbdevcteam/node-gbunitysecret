@@ -1,0 +1,1 @@
+//function： parseHmacSha1Token
