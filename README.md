@@ -16,7 +16,7 @@ npm install gbunitytoken
 
 
 
-##Table of apis
+##api列表
 * gbunitytoken.parseHmacSha1Token(publicKey, privateKey)
 
 
@@ -26,8 +26,7 @@ npm install gbunitytoken
 * publicKey: 公钥
 * privateKey: 密钥
 
-生成token
-在 node-gbunitytoken/index.js 中
+在 node-gbunitytoken/index.js 中生成token
 ```
 var getToken = {};
 getToken.parseHmacSha1Token = function(publicKey, privateKey){
