@@ -1,6 +1,6 @@
 {
   "name": "gbunitytoken",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node.js module that can out token.",
   "main": "index.js",
   "scripts": {
