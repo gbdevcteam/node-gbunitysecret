@@ -1,20 +1,20 @@
 {
-  "name": "gbunitytoken",
-  "version": "0.1.1",
-  "description": "A node.js module that can out token.",
+  "name": "gbunitysecret",
+  "version": "0.1.0",
+  "description": "A node.js module that can get encryption result.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbdevcteam/node-gbunitytoken.git"
+    "url": "git+https://github.com/gbdevcteam/node-gbunitysecret.git"
   },
   "keywords": [
     "node",
     "hmac",
     "sha1",
-    "token"
+    "secret"
   ],
   "author": "shgbit development center team2",
   "contributors":[
@@ -44,7 +44,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/gbdevcteam/node-gbunitytoken/issues"
+    "url": "https://github.com/gbdevcteam/node-gbunitysecret/issues"
   },
-  "homepage": "https://github.com/gbdevcteam/node-gbunitytoken#readme"
+  "homepage": "https://github.com/gbdevcteam/node-gbunitysecret#readme"
 }
